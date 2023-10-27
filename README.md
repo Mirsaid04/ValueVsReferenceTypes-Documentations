@@ -4,7 +4,9 @@ Hello everyone , Welcome to my Documentaion which is about `Value and Reference 
 
 ![](./ValueVsReferenceTypes%20Documentations/Assets/Difference-Between-Value-Type-and-Reference-Type.webp)
 
-1. What is the **Value Type** ?
+1. What is the **Value Type** ? 
+
+**Answers** =>
 
     1.1 Value types directly store the data value itself, which means they hold the actual data.
 
@@ -20,6 +22,8 @@ Hello everyone , Welcome to my Documentaion which is about `Value and Reference 
     * Nullable value types (int?, double?) which can represent null values.
 
 2. What is the **Reference Type** ?
+
+**Answers** =>
 
     2.1 Reference types store a reference (or memory address) to the data, rather than the actual data itself.
 
